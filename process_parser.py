@@ -101,6 +101,5 @@ def main():
     saved_path = save_report(report)
     print(f"\nОтчёт сохранён в файл: {saved_path}")
 
-
 if __name__ == "__main__":
     main()
